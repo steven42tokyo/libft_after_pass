@@ -1,0 +1,10 @@
+libft-tester-tokyo
+a.out
+libftTester
+libft-unit-test
+.DS_Store
+.vscode
+libft.a
+*.o
+*.dSYM
+libft-war-machine
